@@ -108,4 +108,4 @@ To build a platform students check **daily for quick, relevant, and engaging cam
 
 ## 👨‍💻 Author
 
-Raghav
+Raghu
