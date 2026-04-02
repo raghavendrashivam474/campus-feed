@@ -1,17 +1,111 @@
-# college_engagement_app
+# 📱 College Connect – Anonymous Campus Engagement App
 
-A new Flutter project.
+## 🚀 Overview
 
-## Getting Started
+College Connect is a **college-only anonymous social app** that allows students to share thoughts, interact, and stay updated through short, engaging content like confessions, polls, and discussions.
 
-This project is a starting point for a Flutter application.
+It is designed to create a **private and engaging campus ecosystem**.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🎯 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* 🔐 Anonymous Authentication
+* 📝 Create Posts (Confession, Funny, Rant, General)
+* 📰 Real-time Feed (Latest + Trending)
+* 😂 Reactions (Like, Funny, Savage, etc.)
+* 💬 Comments & Replies
+* 📊 Polls / Daily Questions
+* 🚨 Lost & Found Section
+* 🔔 Push Notifications
+
+---
+
+## 🧠 Core Concept
+
+A **hyperlocal social platform** focused on:
+
+* Curiosity-driven content
+* Easy interaction
+* Habit-based usage
+
+---
+
+## ⚙️ Tech Stack
+
+* **Frontend:** Flutter
+* **Backend:** Firebase
+
+  * Authentication
+  * Cloud Firestore
+  * Cloud Messaging
+
+---
+
+## ⚡ Performance & UX
+
+* Pagination (lazy loading feed)
+* Lightweight UI (text-first design)
+* Fast interactions (1-tap reactions)
+* Clean and minimal interface
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+ ├── screens/
+ ├── models/
+ ├── services/
+ ├── widgets/
+```
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+* Flutter SDK
+* Firebase project setup
+
+---
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/college-connect.git
+cd college-connect
+flutter pub get
+flutter run
+```
+
+---
+
+## 🔮 Future Improvements
+
+* 📸 Multimedia posts (images/videos)
+* 🧠 Smart feed ranking
+* 🛡️ Advanced moderation
+* 🌐 Scalable backend (Node.js + PostgreSQL)
+
+---
+
+## ⚠️ Guidelines
+
+* No hate speech
+* No personal attacks
+* Respect anonymity
+
+---
+
+## ❤️ Goal
+
+To build a platform students check **daily for quick, relevant, and engaging campus content**.
+
+---
+
+## 👨‍💻 Author
+
+Raghav
